@@ -1,0 +1,1 @@
+﻿Import-Csv .\Mft_2017-09-15_01-05-33.csv | Select-Object Filename,Time,Short
